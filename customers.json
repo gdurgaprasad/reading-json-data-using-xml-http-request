@@ -1,0 +1,23 @@
+[
+   {
+      "id":1,
+      "name":"Customer 1",
+      "age":23,
+      "phoneNumber":90832090289,
+      "address":"Chennai"
+   },
+   {
+      "id":2,
+      "name":"Customer 2",
+      "age":19,
+      "phoneNumber":87987877908,
+      "address":"Bangalore"
+   },
+   {
+      "id":3,
+      "name":"Customer 3",
+      "age":29,
+      "phoneNumber":7968789879,
+      "address":"Pune"
+   }
+]
